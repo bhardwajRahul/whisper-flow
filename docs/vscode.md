@@ -51,7 +51,9 @@ reimplement in Node (`node-record-lpcm16` / sox) to avoid a Python dependency on
 
 ## 3. Decision: the extension lives in a separate repo
 
-`whisper-flow-vscode`, not a subdirectory here.
+**Whisper Code** — `dimastatz/whisper-code`, extension id `whisper-code` — not a subdirectory here.
+The distinct name avoids confusion with the Wispr Flow dictation product and signals the
+developer/code niche; WhisperFlow remains the name of the server it speaks to.
 
 | Reason | Evidence |
 |---|---|
